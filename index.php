@@ -19,7 +19,7 @@ $exercises = [
     new SelectExercise('select1', [
         'Apple',
         'Banana',
-    ], 'Apple'),
+    ], 0),
     new InputExercise('input1', 'holy'),
 ];
 
